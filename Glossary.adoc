@@ -1,7 +1,7 @@
 
 = Glossary for Literature Review
 
-This will be a glossary of terms needed to understand material in papers.
+This will be a glossary of terms, equations, and derivations needed to understand material in papers.
 
 == Vocabulary
 
