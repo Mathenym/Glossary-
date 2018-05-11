@@ -1,9 +1,2 @@
-just words 
-lets change something 
-
-What is life ?
-yet another line
-
-Need to really master this stuff
-	
-Lets try again. 
+[.lead]
+This will be a glossary of terms needed to understand material in papers.  
