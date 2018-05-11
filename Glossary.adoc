@@ -1,1 +1,4 @@
-[.lead] This will be a glossary of terms needed to understand material in papers.
+[.lead]
+This will be a glossary of terms needed to understand material in papers.
+
+Lets just see how formmating works. *This is important!!* 
