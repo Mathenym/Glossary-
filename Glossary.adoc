@@ -25,10 +25,7 @@ with the electrons in the K and higher electron shells.
 
 == Equations
 
-[latexmath]
-+++++++++++++
-\{K = k * G\}
-+++++++++++++
+\mathcal{W}(A,f) = (T,\bar{f})
 
 
 
