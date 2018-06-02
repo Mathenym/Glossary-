@@ -24,6 +24,6 @@ with the electrons in the K and higher electron shells.
 
 == Equations
 
-$$ sqrt(4) = 2 $$
+$$sqrt(4) = 2$$
 
 == Important Derivations
