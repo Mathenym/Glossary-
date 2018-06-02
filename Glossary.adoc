@@ -1,4 +1,4 @@
-:stem:
+latexmath:[$\(\mathbb{F}_p\)$]
 
 = Glossary for Literature Review
 
@@ -25,19 +25,11 @@ with the electrons in the K and higher electron shells.
 
 == Equations
 
+[latexmath]
++++++++++++++
+\{K = k * G\}
++++++++++++++
 
 
-== Test 1
-
-Pythagoras is said to have said this: stem:[a^2 + b^2 = c^2]
-
-== Test 2
-
-The Pythagorean theorem:
-
-[stem]
-++++
-a^2 + b^2 = c^2
-++++
 
 == Important Derivations
