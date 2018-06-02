@@ -5,9 +5,9 @@ This will be a glossary of terms, equations, and derivations needed to understan
 
 == Vocabulary
 
-* Kinematic Factor: * K = E1/E2 shows that the energy after scattering is only
+* *Kinematic Factor:* K = E1/E2 shows that the energy after scattering is only
 dependent upon the mass of the 2 particles and the scattering angle of the
-incident particle. 
+incident particle.
 
 
 
