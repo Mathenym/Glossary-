@@ -5,10 +5,21 @@ This will be a glossary of terms, equations, and derivations needed to understan
 
 == Vocabulary
 
+* *Cross Section:* (sigma) is the area transverse to particles relative motion
+within which they must meet in order to scatter from each other. When a cross
+section is integrated over all scattering angles (and possibly other variables)
+it is called a total cross section.
+
+* *Differential Cross Section:*  When a cross section is specified as a function
+ of some final-state variable, such as particle angle or energy.
+
 * *Kinematic Factor:* K = E1/E2 shows that the energy after scattering is only
 dependent upon the mass of the 2 particles and the scattering angle of the
-incident particle.
+incident particle after the collision.
 
+* *Correction Factor:* F, is use to account for scattering interactions outside
+1 Bohr radius. In other words, it accounts for the screening caused by interacting
+with the electrons in the K and higher electron shells.
 
 
 == Equations
