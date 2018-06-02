@@ -24,6 +24,19 @@ with the electrons in the K and higher electron shells.
 
 == Equations
 
-latexmath:[$C = \alpha + \beta Y^{\gamma} + \epsilon$]
+:stem:
+
+== Test 1
+
+Pythagoras is said to have said this: stem:[a^2 + b^2 = c^2]
+
+== Test 2
+
+The Pythagorean theorem:
+
+[stem]
+++++
+a^2 + b^2 = c^2
+++++
 
 == Important Derivations
