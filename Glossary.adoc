@@ -3,7 +3,7 @@ latexmath:[$\(\mathbb{F}_p\)$]
 = Glossary for Literature Review
 
 This will be a glossary of terms, equations, and derivations needed to understand material in papers.
-
+So of which, will be review.
 == Vocabulary
 
 * *Cross Section:* (sigma) is the area transverse to particles relative motion
@@ -22,10 +22,24 @@ incident particle after the collision.
 1 Bohr radius. In other words, it accounts for the screening caused by interacting
 with the electrons in the K and higher electron shells.
 
+* *Reciprocal Lattice* Fourier transform of the Bravais Lattice. The shape of the Bravais
+lattice is defined by the crystal family and lattice system. Germanium for example, has a
+face-centered diamond cubic structure.
+
+* *Brillouin Zone* The first Brillouin zone is the locus of points in reciprocal
+ space that are closer to the origin of the reciprocal lattice than they are to
+ any other reciprocal lattice points.
+
+* *Effective Mass* The mass a particle appears to have when responding to forces
+
+* *Heavy and Light Holes* At the center of the first Brillouin zone, the (gamma point),
+the two valence bands in Germanium meet. The shallower band is 'Heavy' as it has a
+higher effect mass, meaning that it has a much larger density of states than that
+of the lighter holes and therefore dominating the valence band.
 
 == Equations
 
-\mathcal{W}(A,f) = (T,\bar{f})
+
 
 
 
