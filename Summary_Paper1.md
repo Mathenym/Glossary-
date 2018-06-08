@@ -1,4 +1,4 @@
-##"Measurement of the Ionization Produced by Sub-keV Silicon Nuclear Recoils in a CCD Dark Matter Detector." A brief summary. 
+## "Measurement of the Ionization Produced by Sub-keV Silicon Nuclear Recoils in a CCD Dark Matter Detector." A brief summary. 
 
 ### Intro
 
@@ -22,8 +22,12 @@ Where
  $$
  \Gamma = \frac{1+\frac{eV_b}{\epsilon_\gamma}Y(E_{nr})}{(1+\frac{eV_b}{\epsilon_\gamma})}
  $$
- With $Y(E_{nr})$ being the nuclear recoil ionization efficiency. 
+ With $Y(E_{nr})$ being the nuclear recoil ionization efficiency or "yield function." 
  The mehtod fitted a $E_e$ spectrum to the data was derived by applying the spline to the simulated $E_r$ spectrum. (See figure 4 in the paper to vizualize the results.) The fitting fucntion was obtained by applying the spline model of the nuclear recoil efficiency to the simulated recoil spectrum and convolving with the detector resolution. 
- The second method used was the "Inegral Method" **Look more into this.** This method was used to find the final result and to characterize any uncertainty. 
+ The second method used was the "Inegral Method" **Look more into this.** The integral method is a way to determine a desired quantity that is directly coupled to a known or measured PDF. For example, the authors are using the simulated PDF of the number of electron-hole pairs created by a nuclear recoil to determine the exact energy that created them. This method works by equating two integrals, one for the PDFif the simulated recoil energy and one for the PDF of the measured number of e-h pairs producded. The lower integration bound, $ Y(E_r)$, for the second integral is then varried so that the two integrals are eqivalent. 
 
- ### **Lets talk to Amy about this section before I continue the summary**
+ ### Results and Conclusions 
+
+ The integral method was applied to configurations with several different sources and 2 target configurations, BeO and alumina-BeO. Both resulted in results consistant within statisitical uncertainty. There were many sources of statisitcal unceratinty, but both target configurations mostly agreed with each other. The maximum energy deviation was 16% at an energy of $E_e=60eV_{ee}$ - but the differences were far beyond statisitical unceratainty at low energies. The total systematic unceratainty was 8.5% 
+ They authors reported nuclear recoil ionization efficiency for energies between $0.7$ and $3.2keV_{nr}$. The measured efficiency was found to deviate significantlly from the lindard model at low energies. The authors confirm this devations with recent measurments from an experiment using fast neutrons at high recoil energies. Deviation from the lindhard model effects the WIMP sensitivity calculations as the sensitivity is overstated at the lower WIMP masses. 
+
